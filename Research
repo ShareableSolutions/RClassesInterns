@@ -1,0 +1,13 @@
+Stack Overflow: This is an online community website for developers of any
+programming language. You can ask your question or look for answers to similar
+questions by visiting https://stackoverflow.com/.
+GitHub: This is known as a hosting service for version control with Git, but it is
+also a great platform for sharing code, reporting errors, or getting answers. Each
+R package has its own repository that contains information about the package
+and provides a communication channel between the users and the package
+maintainer (to report errors).
+Package documentation and vignettes: This provides information about the
+package's functions and examples of their uses.
+Google it: If you couldn't find the answer you were looking for in the preceding
+resources, then Google it, and try to find other resources. You will be surprised
+by the amount of information that's available for R out there.
