@@ -1,0 +1,13 @@
+Installing R
+To install R on Windows, Mac, or Linux, go to the Comprehensive R Archive Network
+(CRAN) main page at https://cran.r-project.org/ , where you can select the relevant
+operating system.
+For Windows users, the installation file includes both the 32-bit and the 64-bit versions. You
+can either install one of the versions or the hybrid version, which includes both the 32-bit
+and 64-bit versions. Technically, after the installation, you can start working with R using
+the built-in Integrated Development Environment (IDE).
+However, it is highly recommended to install the RStudio IDE and set it as your working
+environment for R. RStudio will make your code writing and debugging and the use of
+visualization tools or other applications easier and simple.
+RStudio offers a free version of its IDE, which is available at
+https://www.rstudio.com/products/rstudio/download/ 
